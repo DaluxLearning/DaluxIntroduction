@@ -1,1 +1,0 @@
-DKI.Actions=[{"targetFilters":[],"trigger":"click","external_id":"F734C868-93FA-331D-0E4B-6C10DB2D23EF","elementId":3907823,"targetPages":[],"time":0,"id":1727018,"parameters":{"target":"tab","description":"","notIncludedInResources":true,"title":"","isWebsite":true,"url":"https://www.dalux.com/contact-dalux/"},"type":"http","targetElements":[],"targetGroups":[]}]
