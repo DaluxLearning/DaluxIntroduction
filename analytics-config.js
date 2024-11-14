@@ -9,7 +9,7 @@ ANALYTICS_COURSE_ID = "https://app.authr.it/activities/course/114021";
 // CourseName for the activity
 //
 ANALYTICS_COURSE_NAME = {
-    "en-US": "Dalux"
+    "en-US": "Dalux Introduction Full"
 };
 
 //
