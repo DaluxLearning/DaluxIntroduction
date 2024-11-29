@@ -333,7 +333,20 @@ div.jp-progress {
 }
 div.jp-audio div.jp-progress {
 	height:3px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	transition-property: height, margin;
+	transition-duration: 100ms;
 }
+div.jp-audio div.jp-progress:hover {
+	height: 7px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+html.on-device div.jp-audio div.jp-progress{
+	height: 10px;
+}
+
 div.jp-audio div.jp-type-single div.jp-progress {
 	left:80px;
 	right:30px;
@@ -346,6 +359,13 @@ div.jp-video div.jp-progress {
 	height:3px;
 	z-index:1001;
 	margin-bottom:10px;
+	transition-property: height, margin;
+	transition-duration: 100ms;
+}
+div.jp-video div.jp-progress:hover,
+html.on-device div.jp-video div.jp-progress {
+	height: 7px;
+	margin-bottom: 8px;
 }
 div.jp-seek-bar {
 	background-color:white;

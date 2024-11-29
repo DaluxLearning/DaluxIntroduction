@@ -3,13 +3,13 @@
 
 //
 // ActivityID that is sent for the statement's object
-ANALYTICS_COURSE_ID = "https://app.authr.it/activities/course/114021";
+ANALYTICS_COURSE_ID = "https://app.authr.it/activities/course/114135";
 
 //
 // CourseName for the activity
 //
 ANALYTICS_COURSE_NAME = {
-    "en-US": "Dalux Introduction Full"
+    "en-US": "Dalux Introduction"
 };
 
 //
